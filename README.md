@@ -6,7 +6,7 @@ Pour dockeriser nos différents services Spring Boot, on passe par les étapes s
 
 On commence par l'ajout d'un Dockerfile dans le répertoire principal du projet qui contient les caractéristiques de l'image à créer.
 
-![1ère capture](/Capture3.png?raw=true "Ajout du Dockerfile")
+![1ère capture](/Capture3.PNG?raw=true "Ajout du Dockerfile")
 
 ## Ajout du plugin offert par Spotify
 
