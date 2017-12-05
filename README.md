@@ -22,7 +22,7 @@ Ensuite, on crée un fichier settings.xml sous le répertoire .m2. On ajoute à 
 
 ## Lancer la commande pour construire l'image
 
-On utilise le terminal d'IntelliJ puor exécuter la commande "mvnw package dockerfile:build" qui permet de construire l'image Docker.
+On utilise le terminal d'IntelliJ puor exécuter la commande "mvnw install dockerfile:build" qui permet de construire l'image Docker.
 
 ![4ème capture](/Capture4.PNG?raw=true "Build terminé")
 
