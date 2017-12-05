@@ -10,7 +10,7 @@ On commence par l'ajout d'un Dockerfile dans le répertoire principal du projet 
 
 ## Ajout du plugin offert par Spotify
 
-On va commencer par l'ajout d'un plugin Maven offert par Spotify au fichier pom.xml, en spécifiant le répertoire, le nom de l'image Docker à créer, et le nom du jar. Ce plugin permet de faire un build de l'image Docker.
+On ajoute un plugin Maven offert par Spotify au fichier pom.xml, en spécifiant le répertoire, le nom de l'image Docker à créer, et le nom du jar. Ce plugin permet de faire un build de l'image Docker.
 
 ![2ème capture](/Capture2.PNG?raw=true "Ajout du plugin")
 
