@@ -18,7 +18,7 @@ On ajoute un plugin Maven offert par Spotify au fichier pom.xml, en spécifiant 
 
 Ensuite, on crée un fichier settings.xml sous le répertoire .m2. On ajoute à ce fichier le plugin group "com.spotify"
 
-![3ème capture](/Capture.PNG?raw=true "Ajout du plugin group")
+![3ème capture](/Capture1.PNG?raw=true "Ajout du plugin group")
 
 ## Lancer la commande pour construire l'image
 
